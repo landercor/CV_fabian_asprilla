@@ -2,28 +2,26 @@
 # Hoja de Vida
 
 ## Nombre Completo
-**Profesión:** _Tu profesión_
+**Profesión:** _Analisis y desarrollo de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [asprillafabian8@gmail.com](mailto:correo@ejemplo.com)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Analisis y desarrollo de software.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Empresa ABC** _(2015 - Actual)_
+- Puesto ocupado y descripción brev.
 
 ## 🎓 Educación
 ### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+- Analisis y desarrollo de software.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Comunicacion**
+- **Adaptabilidad**
+- **Liderazgo**
 
 ---
 
